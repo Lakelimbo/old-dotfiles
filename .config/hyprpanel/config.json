@@ -182,7 +182,7 @@
   "menus.transitionTime": 200,
   "menus.power.lowBatteryNotification": false,
   "menus.power.lowBatteryThreshold": 20,
-  "menus.dashboard.powermenu.avatar.image": "/home/gabriel/Downloads/snorlaxbeach_cropped.png",
+  "menus.dashboard.powermenu.avatar.image": "~/dotfiles/assets/snorlax.png",
   "menus.dashboard.powermenu.avatar.name": "system",
   "menus.dashboard.shortcuts.left.shortcut1.icon": "",
   "menus.dashboard.shortcuts.left.shortcut1.tooltip": "Zen",
