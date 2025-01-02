@@ -75,4 +75,4 @@ source=/usr/share/zsh/plugins/<plugin-name-here>
 - [ ] Tweak some of the GTK Catppuccin theme
 - [ ] Properly link all mentioned projects in this markdown file
 - [ ] Maybe an autoinstall script?
-- [ ] Screenshots
+- [x] ~Screenshots~
