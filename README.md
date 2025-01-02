@@ -5,7 +5,7 @@ Maybe I should make a script for autoinstalling some of these.
 
 <p align="center">
 
-![Screenshot of Zen Browser, Ghostty, and Docker Desktop on a 2x2 layout](./screenshots/screen1.png]
+![Screenshot of Zen Browser, Ghostty, and Docker Desktop on a 2x2 layout](./screenshots/screen1.png)
 
 ![Screenshot of Zen Browser and Neovim, side-by-side](./screenshots/screen2.png)
 
