@@ -3,6 +3,12 @@
 My personal dotfiles for Hyprland. This is still very early, so some things might be missing.
 Maybe I should make a script for autoinstalling some of these.
 
+<p align="center">
+  ![Screenshot of some apps opened and tiled](./screenshots/screen1.png]
+  ![Screenshot of Zen Browser and Neovim, side-by-side](./screenshots/screen2.png)
+  ![Screenshot of the desktop with the wallpaper, no apps visible](./screenshots/screen3.png)
+</p>
+
 ## Packages/dependencies
 
 These dotfiles are symlinked using `stow`, so there is not a need to keep copying, having duplicates, or moving them manually.
