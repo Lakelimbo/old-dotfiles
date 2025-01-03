@@ -39,7 +39,7 @@ If you have never used Stow before, check out [this video by Dreams of Code](htt
 - prompt: `starship`
 - editors: `nvim`, Visual Studio Code, IntelliJ IDEA, Rider
 
-## ZSH plugins
+#### ZSH plugins
 
 - `zsh-autosuggestions`
 - `zsh-syntax-highlighting`
@@ -50,7 +50,6 @@ your preferred AUR helper (like `yay`), then pointing to the plugin on the `.zsh
 
 ```bash
 source=/usr/share/zsh/plugins/<plugin-name-here>
-# ...
 ```
 
 ### Others
@@ -64,6 +63,9 @@ source=/usr/share/zsh/plugins/<plugin-name-here>
 - clipboard management: `wl-clipboard`
 - backlight management: `brightnessctl` and `ddcutil`
 - screenshoting: `grim` and `grimshot`
+
+On `hyprland.conf` there are also some things I have set up to start on boot, like Discord, Thunderbird, and ZapZap (unofficial WhatsApp wrapper, flatpak), alongside a direct connection to my headphones with `bluetoothctl`.
+Of course if you do not need such things, modify the `exec-once` lines.
 
 ## TO-DO
 
