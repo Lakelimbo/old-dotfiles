@@ -62,7 +62,7 @@ source=/usr/share/zsh/plugins/<plugin-name-here>
 - browsers: `zen-browser`, Firefox
 - clipboard management: `wl-clipboard`
 - backlight management: `brightnessctl` and `ddcutil`
-- screenshoting: `grim` and `grimshot`
+- screenshoting: `hyprshot` (wrapper for `grim` and `slurp`)
 
 On `hyprland.conf` there are also some things I have set up to start on boot, like Discord, Thunderbird, and ZapZap (unofficial WhatsApp wrapper, flatpak), alongside a direct connection to my headphones with `bluetoothctl`.
 Of course if you do not need such things, modify the `exec-once` lines.
