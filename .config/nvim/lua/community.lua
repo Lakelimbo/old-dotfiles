@@ -12,6 +12,7 @@ return {
   -- packs
   { import = "astrocommunity.pack.astro" },
   { import = "astrocommunity.pack.bash" },
+  { import = "astrocommunity.pack.cmake" },
   { import = "astrocommunity.pack.cs" },
   { import = "astrocommunity.pack.go" },
   -- { import = "astrocommunity.pack.kotlin" },
