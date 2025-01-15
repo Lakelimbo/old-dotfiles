@@ -7,6 +7,7 @@ bindkey -e
 
 export EDITOR="neovim"
 export VISUAL="$EDITOR"
+export PATH=$PATH:$(go env GOPATH)/bin # for things like Air (Golang)
 
 # The following lines were added by compinstall
 zstyle :compinstall filename '/home/gabriel/.zshrc'
