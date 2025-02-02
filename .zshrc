@@ -9,6 +9,14 @@ export EDITOR="neovim"
 export VISUAL="$EDITOR"
 export PATH=$PATH:$(go env GOPATH)/bin # for things like Air (Golang)
 
+# Cargo
+export PATH=$PATH:$HOME/.cargo/bin
+
+# Android and Flutter things
+export ANDROID_SDK_ROOT=$HOME/Android/Sdk
+export PATH=$ANDROID_SDK_ROOT/platform-tools:$PATH
+export PATH=$HOME/.flutter/flutter/bin:$PATH # Flutter SDK
+
 # The following lines were added by compinstall
 zstyle :compinstall filename '/home/gabriel/.zshrc'
 
