@@ -1,7 +1,5 @@
-# lake-hyprland-dotfiles
-
-My personal dotfiles for Hyprland. This is still very early, so some things might be missing.
-Maybe I should make a script for autoinstalling some of these.
+# DEPRECATED!
+Check out my [newer dotfiles](https://github.com/lakelimbo/dotfiles) if you're interested. Things here might still work, but probably will break at some point, and I'll probably not update this repo anymore.
 
 <p align="center">
 
